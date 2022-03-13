@@ -102,7 +102,7 @@
 <br/> 
 
 ## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://linkedin.com/in/gurbaj-singh-b64198b5" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -114,7 +114,7 @@
 <br/>  
 <br/>
 
-<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <!--
 **gurbaj5124871/gurbaj5124871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
