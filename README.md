@@ -6,7 +6,7 @@
   
 <br/>
 
-### <div align="left">Hello 👋 I'm Gurbaj, a Senior Software Engineer 👨‍💻  working remotely since 2019 🦅 </div>  
+### <div align="left">Hello 👋 I'm Gurbaj, A Senior Software Engineer 👨‍💻 🦅 </div>  
 
 - 🔭 I’m currently working at [waitroom](https://waitroom.com), A time bounded live streaming platform  
   
