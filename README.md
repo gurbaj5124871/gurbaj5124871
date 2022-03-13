@@ -17,10 +17,10 @@
 - 🚀 Specializing in Backend, Data and Devops with intermediate level of frontend  
   
 
-- ⚛️ Machine learning and blockchain enthusiast and always learning new technologies
+- 🤖 Machine learning and blockchain enthusiast
 
 
-- ✨ My portfolio site visit @ [portfolio.gurbaj.dev](https://portfolio.gurbaj.dev) 
+- ✨ Wubba lubba dub dub 
   
 
 <br/>  
@@ -102,12 +102,9 @@
 <br/> 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/gurbaj-singh-b64198b5" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/gurbaj5124871" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/aida_hi__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -116,6 +113,8 @@
 
 <br/>  
 <br/>
+
+<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 <!--
 **gurbaj5124871/gurbaj5124871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
