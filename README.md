@@ -57,15 +57,16 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" />
+<img style="margin: 10px" src="https://mqtt.org/assets/downloads/mqtt-logo.png" alt="MQTT" height="50" width=130/>
+<img style="margin: 10px" src="https://i.postimg.cc/1302mM5X/zmq-removebg-preview.png" alt="ZeroMQ" height="50" witdh=70/>
 </div>
-
+  
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-  
 <td valign="top" width="50%">
 
 ### <div align="center"> DevOps </div>
@@ -80,7 +81,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
 </div>
-
 </td>
 
 <td valign="top" width="50%">
@@ -95,9 +95,7 @@
 <img style="margin: 10px" src="https://i.postimg.cc/hvWVtkr7/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.png" alt="HTML" height="50" /> 
 <img style="margin: 10px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="HTML" height="50" /> 
 </div>
- 
 </td>
-  
 </tr>
 </table>
 
