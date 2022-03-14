@@ -114,7 +114,9 @@
 <br/>  
 <br/>
 
+<!--
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+-->
 
 <!--
 **gurbaj5124871/gurbaj5124871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
