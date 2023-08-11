@@ -7,8 +7,6 @@
 <br/>
 
 ### <div align="center">Hello 👋 I'm Gurbaj, A Senior Software Engineer 👨‍💻 🦅 </div>  
-
-- 🔭 Working at [waitroom](https://waitroom.com), A time bounded live streaming platform  
   
 
 - ⚡ Have experience of working in various product based startups of about 5+ years  
