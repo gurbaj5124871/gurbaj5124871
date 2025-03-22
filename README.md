@@ -9,7 +9,7 @@
 ### <div align="center">Hello 👋 I'm Gurbaj, A Senior Software Engineer 👨‍💻 🦅 </div>  
   
 
-- ⚡ Have experience of working in various product based startups of about 7+ years  
+- ⚡ Have experience of working in various product based startups of about 8+ years  
   
 
 - 🚀 Specializing in Backend, Data and Devops with intermediate level of frontend  
